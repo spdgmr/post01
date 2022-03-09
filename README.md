@@ -1,4 +1,4 @@
-## POST: Stop making Linux user friendly.. ..sort of 
+## Stop making Linux user friendly.. ..sort of 
 
 DATE: (2022-03-09)
 
